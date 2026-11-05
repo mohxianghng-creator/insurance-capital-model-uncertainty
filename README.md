@@ -15,12 +15,11 @@ A non-life actuarial research case study connecting public fire-loss data, tail 
 
 ## Review in five minutes
 
-1. Read the [decision memo](docs/DECISION_MEMO.md) for the business question, quotation thresholds and conditional actions.
-2. Download and open the [offline evidence report](app/evidence_report.html) and [interactive decision explorer](app/decision_explorer.html).
-3. Read the [current validation](paper/current_validation.md), [model card](docs/MODEL_CARD.md) and [validation criteria](docs/VALIDATION.md).
-4. Consult the [research paper](paper/paper.md) for methods, empirical results and the decision framework.
+1. Read the [decision memo](DECISION_MEMO.md) for the business question, quotation thresholds and conditional actions.
+2. Download and open the [offline evidence report](evidence_report.html) and [interactive decision explorer](decision_explorer.html).
+3. Read the [current validation](current_validation.md), [model card](MODEL_CARD.md) and [validation criteria](VALIDATION.md).
+4. Consult the [research paper](paper.md) for methods, empirical results and the decision framework.
 
-![Current repeated-sample interval coverage](paper/figures/F6_current_coverage.png)
 ![Current repeated-sample interval coverage](F6_current_coverage.png)
 
 ## Design and implementation
