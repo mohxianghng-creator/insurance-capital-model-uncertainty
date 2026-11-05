@@ -21,6 +21,7 @@ A non-life actuarial research case study connecting public fire-loss data, tail 
 4. Consult the [research paper](paper/paper.md) for methods, empirical results and the decision framework.
 
 ![Current repeated-sample interval coverage](paper/figures/F6_current_coverage.png)
+![Current repeated-sample interval coverage](F6_current_coverage.png)
 
 ## Design and implementation
 
