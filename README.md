@@ -11,7 +11,7 @@ A non-life actuarial research case study connecting public fire-loss data, tail 
 - Numerical checks can pass while statistical intervals under-cover. Nominal 90% bootstrap intervals cover 85.5% and 83.5% in two current synthetic worlds.
 - Finite treaty limits, assumed prices and resource budgets change the conditional action. **No cover** and **no feasible action** remain valid outputs.
 
-`V = VaR99.5(annual retained aggregate loss)` is a total resource level. `K = V - E[S]` is separately reported economic capital above expected loss. Neither is a complete regulatory SCR.
+`V = VaR 99.5(annual retained aggregate loss)` is a total resource level. `K = V - E[S]` is separately reported economic capital above expected loss. Neither is a complete regulatory SCR.
 
 ## Review in five minutes
 
